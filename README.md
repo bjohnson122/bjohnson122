@@ -1,7 +1,7 @@
 ## Hi! I'm Breana Johnson.   &nbsp;   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=fplastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breanaj/)
 👋🏽 I am a "Future Code NYC at **Fullstack Academy**" Fellowship recipient through the NYC Tech-Talent Pipeline.
 <br>
-👩🏽‍💻 I am open to connecting with like-minded individuals in the industry and am seeking remote or hybrid Software Engineering roles. 
+👩🏽‍💻 I am open to connecting with others in the industry and am seeking remote or hybrid Software Engineering roles. 
 <br>
 💻 I enjoy solving challenging problems and building useful apps/websites.
 <br>
