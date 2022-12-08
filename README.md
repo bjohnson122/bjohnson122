@@ -25,5 +25,5 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=plastic&logo=Canva&logoColor=white)
 
-## Supplemental Education & Certifications
+## Supplemental Education/Certifications
 ![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=plastic&logo=freecodecamp&logoColor=white)
