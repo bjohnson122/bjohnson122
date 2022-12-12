@@ -5,7 +5,7 @@
 <br>
 💻 I enjoy solving challenging problems and building useful apps/websites.
 <br>
-💞️ I am passionate about helping others learn how to code and further developing my skillset.
+💞️ I am passionate about further developing my skillset.
 <br> 
 🎨 Fun Fact: I am a both a graphic artist and nail artist. 💅🏽
 
