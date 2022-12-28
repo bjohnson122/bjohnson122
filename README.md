@@ -1,5 +1,5 @@
 ## Hi, I'm Breana!   &nbsp;   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=fplastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breanaj/)
-👋🏽  I am a "Future Code NYC at **Fullstack Academy**" Fellowship recipient through the NYC Tech-Talent Pipeline.
+🤓  I attended **Fullstack Academy** through NYC's "Future Code Fellowship", which is a part of the NYC Tech-Talent Pipeline.
 <br>
 👩🏽‍💻  I am open to connecting with others in the industry and am currently seeking remote or hybrid Software Engineering roles. 
 <br>
