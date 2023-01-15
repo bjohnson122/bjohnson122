@@ -5,7 +5,7 @@
 
 🎓 I attended Fullstack Academy through NYC's "Future Code Fellowship", which is a part of the NYC Tech-Talent Pipeline
     
-🤓  I am currently learning **Gatsby** and the proper use-cases for static web development
+🤓  I am currently learning **GatsbyJS**
 
 🎨 Fun fact: I'm an illustrator and nail artist 💅🏽
 
