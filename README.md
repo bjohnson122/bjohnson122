@@ -3,7 +3,10 @@
       
 <br>
 
-🎓 I attended Fullstack Academy through NYC's "Future Code Fellowship", which is a part of the NYC Tech-Talent Pipeline
+
+🎓 I attended Fullstack Academy through NYC's competitive "Future Code Fellowship", which is a part of the NYC Tech-Talent Pipeline
+
+👀 Checkout my most recent project (which also happens to be my portfolio): https://wwww.breana.dev
     
 🤓  I am currently exploring Javascript frameworks such as NextJS and Gatsby
 
