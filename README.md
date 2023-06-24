@@ -8,7 +8,7 @@
 
 👀 Checkout my most recent project (which also happens to be my portfolio): https://wwww.breana.dev
     
-🤓  I am currently exploring Javascript frameworks such as NextJS and Gatsby
+🤓  I am currently exploring Javascript frameworks and UX Design
 
 🎨 Fun fact: I'm an illustrator and nail artist 💅🏽
 
@@ -20,7 +20,7 @@
 
 <div align="center"> 
   <a href="https://linkedin.com/in/breanaj" target="_blank">
-  <img src="https://skillicons.dev/icons?i=js,react,redux,html,css,materialui,gatsby,firebase,nodejs,postgres,express" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,redux,html,css,materialui,nodejs,postgres,express" alt="Tech Stack" />
   </a>
 </div>
 <br>
