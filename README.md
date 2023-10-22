@@ -19,13 +19,23 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <div align="center"> 
-  <a href="https://linkedin.com/in/breanaj" target="_blank">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,redux,html,css,materialui,nodejs,postgres,express" alt="Tech Stack" />
-  </a>
+      <img src="https://skillicons.dev/icons?i=js" alt="Tech Stack" title="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=react" alt="Tech Stack" title="React" /> 
+      <img src="https://skillicons.dev/icons?i=ts" alt="Tech Stack" title="TypeScript" />
+      <img src="https://skillicons.dev/icons?i=styledcomponents" alt="Tech Stack" title="Styled Components" /> 
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="Tech Stack" title="NextJS" /> 
+      <img src="https://skillicons.dev/icons?i=redux" alt="Tech Stack" title="Redux" /> 
+      <img src="https://skillicons.dev/icons?i=html" alt="Tech Stack" title="HTML" /> 
+      <img src="https://skillicons.dev/icons?i=css" alt="Tech Stack" title="Cascading Style Sheets (CSS)" /> 
+      <img src="https://skillicons.dev/icons?i=materialui" alt="Tech Stack" title="Material UI" />
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Tech Stack" title="Node.js" />
+      <img src="https://skillicons.dev/icons?i=postgres" alt="Tech Stack" title="Postgres" />
+      <img src="https://skillicons.dev/icons?i=express" alt="Tech Stack" title="Express" />
+      <br/>
 </div>
 <br>
 
- <div align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=bjohnson122&theme=transparent&show_icons=true&locale=en&layout=compact" alt="bjohnson122" /></div>
+ <div align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=bjohnson122&theme=transparent&show_icons=true&locale=en&layout=compact" alt="bjohnson122" />
  <hr>
 
  <div align="center">
