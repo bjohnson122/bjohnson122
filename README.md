@@ -3,10 +3,7 @@
       
 <br>
 
-
-🎓 I attended Fullstack Academy through NYC's competitive "Future Code Fellowship", which is a part of the NYC Tech-Talent Pipeline. From there, I gained hands-on software engineering experience through Spotify's renowned _NYC Tech Fellowship_, which concluded in 2024. 
-
-👀 Checkout my most recent project (which also happens to be my portfolio): https://www.breana.dev
+👀 Checkout my portfolio: https://www.breana.dev
     
 🤓  I am currently exploring Javascript frameworks and UX Design
 
